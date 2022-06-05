@@ -1,2 +1,2 @@
 # rot-reader
-Excercise from A Tour of Go
+Exercise rot13Reader from A Tour of Go
